@@ -3,3 +3,33 @@ h1 {
     color: aqua;
     font-weight: bold;
 }
+
+.container_header {
+    display: grid;
+    grid-template-columns: auto 400px;
+    gap: 10px;
+    border-radius: 20px;
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    align-items: center;
+    margin: 10px;
+
+}
+
+.container_foo {
+    gap: 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+}
+
+.container_art {
+    gap: 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+}

@@ -8,11 +8,16 @@ h1 {
 
 .article{
     border-radius: 10px;
-    background-color: purple;
-    border: solid white 2px;
+    background-color: #320095;
+    border: solid rgb(0, 0, 0) 5px;
 }
 
-h3, p {
+h3 {
+    color: black;
+    font-size: 30px;
+}
+
+p {
     color: black;
 }
 
@@ -20,24 +25,25 @@ form {
     width: 100%;
     max-width: 400px;
     text-align: center;
-    border: solid 1px #c2c2c2;
+    border: solid 5px #000000;
     padding-bottom: 10px;
     margin: auto;
     background: #fafafa;
+    margin-top: 10px;
     }
     input[type=textfield] {
     width: 75%;
     padding: 16px 32px;
     font-size: 16px;
     margin: 8px 0;
-    border: 1px solid silver;
+    border: 3px solid #320095;
     border-radius: 1px;
     text-align: left;
-    color: #000000;
+    color: #320095;
     background: #ccc;
     }
     input[type=button], input[type=submit], input[type=reset] {
-    background-color: #4CAF50;
+    background-color: #320095;
     border: none;
     color: white;
     padding: 16px 32px;
@@ -48,4 +54,4 @@ form {
     cursor: pointer;
     }
     input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
-    background-color: #333}
+    background-color: #5e0076}

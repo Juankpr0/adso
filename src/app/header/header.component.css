@@ -1,6 +1,5 @@
 h1 {
     margin: 0 auto;
-    text-align: center;
     font-size: 50px;
     color: white;
     font-weight: bold;
@@ -8,6 +7,7 @@ h1 {
 
 .header{
     border-radius: 10px;
-    background-color: purple;
-    border: solid white 2px;
+    background-color: #320095;
+    border: solid rgb(0, 0, 0) 5px;
+    text-align: center;
 }

@@ -8,6 +8,8 @@ h1 {
 
 .navbar{
     border-radius: 10px;
-    background-color: purple;
-    border: solid white 2px;
+    background-color: #320095;
+    border: solid rgb(0, 0, 0) 5px;
+    justify-content: center;
+    align-items: center;
 }
